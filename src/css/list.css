@@ -1,0 +1,215 @@
+#list_top {
+  width: 100%;
+  height: 56px;
+  background: #fff; }
+
+.list_top {
+  height: 56px;
+  position: relative; }
+
+.list_logoll {
+  display: block;
+  float: left;
+  width: 140px;
+  height: 100%;
+  background: url("../css/imges/nav_sp.png") no-repeat;
+  background-position: 0 0; }
+
+.list_top p {
+  width: 147px;
+  height: 56px;
+  text-align: center;
+  line-height: 56px;
+  float: left; }
+
+.list_top i {
+  position: absolute;
+  top: 17px; }
+
+.list_index {
+  width: 104px;
+  height: 20px;
+  text-align: center;
+  line-height: 20px;
+  display: block;
+  float: left;
+  color: #4ab8da;
+  margin: 18px 0 0 18px;
+  padding-left: 24px;
+  background: url("../css/imges/nav_sp.png") -140px -38px no-repeat; }
+
+.list_logolr {
+  width: 432px;
+  height: 32px;
+  display: block;
+  float: right;
+  margin-top: 20px;
+  background: url("../css/imges/nav_sp.png") -140px 0px no-repeat; }
+
+.list_banner {
+  width: 100%;
+  height: 380px;
+  background: url("../img/lsit.jpg") no-repeat center; }
+
+#goods_lists {
+  width: 100%;
+  background: #c0e9ed;
+  height: 860px; }
+
+.goods_lists {
+  width: 960px;
+  margin: 0 auto; }
+
+.goods_lists_nav {
+  width: 954px;
+  height: 35px;
+  border-top: 1px solid #ccc;
+  background: #fff;
+  margin-top: -1px; }
+
+.goods_lists_nav span {
+  width: 69px;
+  height: 34px;
+  display: block;
+  text-align: center;
+  line-height: 34px;
+  float: left;
+  color: black;
+  border-right: 1px solid #ccc;
+  font-size: 13px;
+  cursor: pointer; }
+
+
+
+.tuijian {
+  background: #009de0; }
+
+.goods_lists_r {
+  width: 147px;
+  height: 34px;
+  float: right; }
+
+.goods_lists_r p {
+  text-align: center;
+  float: left;
+  line-height: 34px;
+  font-size: 13px;
+  padding-right: 10px;
+  color: #ccc; }
+
+.goods_lists_r i {
+  display: block;
+  float: left;
+  width: 45px;height: 34px;
+  cursor: pointer;
+  line-height: 34px;
+  border-right: 0;
+  font-size: 13px;
+  background: red;
+  border-left: 1px solid #ccc; }
+
+
+  .goodsliebiao{height: 746px;}
+  #page{margin-top: 10px;}
+  #page span{
+    padding:3px 4px; 
+    margin: 10px 2px;
+    border-radius:2px;
+    cursor: pointer;
+    border: 1px solid #ccc;
+   
+}
+
+#page span:first-child {margin-left:682px;}
+
+  .active{
+      background: #66ccff;
+  }
+
+/* #page{float: right;} */
+
+/* #page li {
+  float: left;
+  border: 1px solid #c0e9ed;
+  background: #fff;
+  margin-top: 5px;
+  
+   }
+
+ #page li a{color: black;font-size:12px;}
+ #one,#two,#three{width: 20px;display: block;height: 18px;text-align: center;line-height: 18px;}
+ .pagetotal{background: #009de0}
+ .page-txtbox{width: 30px;height: 22px;line-height: 22px;}
+ .page-btn{width: 34px;height: 28px;} */
+
+
+.goodsliebiao {
+  width: 960px; }
+
+.list_item {
+  width: 232px;
+  height: 358px;
+  background: #fff;
+  margin: 15px 0 0 5px;
+  float: left;
+  position: relative; }
+
+.good_price {
+  color: red;
+  width: 230px;
+  height: 36px;
+  padding: 0 10px;
+  font-size: 22px;
+  line-height: 36px; }
+
+.list_item h2 {
+  width: 230px;
+  height: 60px;
+  padding: 0 10px; }
+
+ .list_item img{cursor: pointer;width: 206px;height: 206px;}
+
+.list_item h2 a {
+  color: black;
+  font-size: 12px; }
+
+.list_item h2 a span {
+  color: red; }
+
+.list_carbtn {
+  width: 232px;
+  background: red;
+  color: #fff;
+  height: 26px;
+  text-align: center;
+  line-height: 26px;
+  display: none; }
+
+.list_bottom {
+  width: 232px;
+  height: 32px;
+  border-top: 1px solid #ccc; }
+
+.list_bottom span:first-child {
+  display: block;
+  float: left; }
+
+.list_bottom span:first-child a {
+  color: #ccc;
+  font-size: 12px;
+  margin-top: 10px;
+  display: block; }
+
+.list_bottom span:last-child {
+  display: block;
+  float: right;
+  margin-top: 10px;
+  background: url("../css/imges/country.png") no-repeat;
+  width: 24px;
+  height: 16px;
+  margin-right: 10px; }
+
+.list_item:hover .list_carbtn {
+  display: block; }
+
+/*# sourceMappingURL=list.css.map */

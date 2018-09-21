@@ -1,0 +1,66 @@
+
+#header_top1{height: 29px;background: #fafafa;border-bottom: 1px solid #ccc;}
+.header_top1{height: 29px;line-height: 29px;font-size: 15px;width: 990px;margin:0 auto;}
+.header_topleft{float: left;}
+.header_topleft span{color:#787878;}
+.header_topleft_laba{color: red;background: url('../css/imges/headr-laba.png') no-repeat;padding-left: 18px;margin-left:10px;line-height: 29px;}
+.header_topright1{
+    width: 406px;height: 29px;
+    padding-left:110px; 
+    float: right;
+    li{
+        float: left;
+        
+        }
+    }
+.header_topright_li{padding:0 10px;}
+.header_topright1  li a{color:#787878;}
+.header_topright1  li a:hover{color:blue;border-bottom: 1px solid #ccc;}
+.header_shouji{position: relative;display: block;}
+.header_shoujiban{background: url('../css/imges/top-appcode.png') no-repeat;width: 174px;height: 209px;
+    position: absolute;top: 25px;right: -56px;z-index: 99;display: none;}
+.header_shouji:hover .header_shoujiban{display: block;}
+
+
+//headercontent
+#header_content1{height: 100px;background: #fff;}
+.header_content1{height: 100px;width: 990px;margin:0 auto;}
+.header_logol{display: inline-block; width: 304px;height: 64px;background:url('../css/imges/logo.png') no-repeat center;margin-top:18px;}
+.header_logol2{display:block; float: right;width: 294px;height: 30px;background: url('../css/imges/promise.jpg') no-repeat;margin: 35px 0 0 0px;}
+
+// reg/registfooter
+#reg_footer{height: 100px;background: #fff;}
+.reg_footer{height: 105px;width: 990px;margin:0 auto;padding:50px 0 30px 0 ;}
+.reg_footer p{width: 100%;height: 15px;text-align: center;color: rgb(145, 136, 136);background: url('../img/cprt.png') left center repeat-x; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// footer
+#footer{width: 100%;height: 276px;background:#fff;margin-top:20px;}
+.footer{height: 276px;} 
+.footer_left{width: 140px;height: 135px;position: relative;
+    background: url('../img/online-refer.png') no-repeat;cursor: pointer;margin-right: 90px; float: left;}
+.footer_left p{position: absolute;top: 110px;left: 0; color: rgb(145, 136, 136);font-size:14px;width: 155px; }
+.foooter_middle{width: 700px;height: 151px;float: left;}
+.footer_li{float: left;width: 140px;height: 123px;}
+.footer_li h6{color: black;font-size: 18px;}
+.footer_li ul li{margin-top:10px; }
+.footer_li ul li a{color: rgb(111, 100, 98); }
+.footer_right{width: 105px;height: 133px;background: url(../img/app-code.png) no-repeat;float: right;}
+.footer_bottom{width: 100%;height: 90px;float: left;margin-top: 20px;}
+.footer_bottom p{width: 100%;height: 15px;text-align: center;color: rgb(145, 136, 136);background: url('../img/cprt.png') left center repeat-x; }
+.footer_bottom .footer_brander{width: 100%;height: 45px;margin-top:20px;text-align: center;}

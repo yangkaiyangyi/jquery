@@ -1,0 +1,144 @@
+#reg_banner {
+  width: 100%;
+  height: 588px;
+  background: #4dc6f8; }
+
+.reg_banner {
+  width: 990px;
+  height: 588px;
+  margin: 0 auto;
+  position: relative; }
+
+.reg_banner_img img {
+  margin-top: 75px; }
+
+.reg_banner_img {
+  display: block; }
+
+.regform {
+  width: 400px;
+  height: 448px;
+  background: #fff;
+  z-index: 70;
+  position: absolute;
+  top: 69px;
+  left: 591px; }
+
+.regform .regformt {
+  width: 400px;
+  height: 50px;
+  padding-top: 22px; }
+
+.regform .regformt a {
+  color: #09c; }
+
+.regform .regformt h2 a:hover {
+  border-bottom: 1px solid #09c; }
+
+.regform .regformt h2 {
+  width: 340px;
+  height: 30px;
+  margin-left: 30px; }
+
+.form_box {
+  margin-top: 20px; }
+
+.regformt h2 span {
+  display: block;
+  float: left;
+  font-size: 18px; }
+
+.regformt p {
+  float: right; }
+
+.regformt p a {
+  color: #4dc6f8; }
+
+.form_box {
+  width: 400px;
+  height: 438px;
+  padding: 0 30px; }
+
+.form_box label {
+  margin-left: 5px; }
+
+.form_box p {
+  width: 340px;
+  height: 36px;
+  border: 1px solid #ccc;
+  margin: 5px 0;
+  line-height: 36px; }
+
+.tips {
+  height: 20px;
+  display: block;
+  float: right;
+  font-size: 12px; }
+
+.formp {
+  width: 340px;
+  height: 36px;
+  float: left;
+  text-align: center;
+  line-height: 36px; }
+
+.form_btn {
+  width: 340px;
+  height: 44px;
+  background: #4dc6f8;
+  color: #fff;
+  cursor: pointer; }
+
+.form_btn:hover {
+  background: #4e56c4; }
+
+  
+.form_code {
+  width: 60px;
+  height: 35px;
+  float: right;
+  border-left: 1px solid #ccc;
+  cursor: pointer; }
+
+.form_bottom {
+  width: 400px;
+  height: 50px;
+  margin-top: 316px;
+  color: #999;
+  font-size: 12px;
+  position: relative; }
+
+.form_bottom ul li {
+  float: left; }
+
+.form_bottom ul span {
+  display: block;
+  float: left;
+  margin-top: 5px; }
+
+.form_bottom ul li {
+  background: url(../css/imges/form-icon.png) no-repeat -22px -193px;
+  margin-left: 7px; }
+
+.form_bottom ul li a {
+  display: block;
+  width: 24px;
+  height: 24px; }
+
+.formwechat {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: -8px;
+  left: 263px; }
+
+.formwechat1 {
+  width: 50px;
+  height: 50px;
+  background: url(../css/imges/form-icon.png) no-repeat 0 0;
+  display: block;
+  position: absolute;
+  top: -11px;
+  left: 320px; }
+
+/*# sourceMappingURL=reg.css.map */
